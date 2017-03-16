@@ -1,0 +1,26 @@
+{
+  "name": "apex-react-components",
+  "version": "1.0.0",
+  "description": "Reusable React components in the style of Apex Clearing.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/likesalmon/apex-react-components",
+    "type": "git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "bugs": "https://github.com/likesalmon/apex-react-components/issues",
+  "author": "Ammon Morris <likesalmon@gmail.com> (http://likesalmon.net)",
+  "contributors": [
+    "Julie Petrarca <jpetrarca@gmail.com>"
+  ],
+  "files": [
+    "index.js",
+    "components/**/*.js"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.41.0"
+  }
+}
